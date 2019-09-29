@@ -39,7 +39,7 @@ In this section you should report on 4 of the areas below.
  Cybersecurity
  Blockchain and cryptocurrencies
  Machine Learning
- Autonomous vehicles
+ Autonomous vehicles (DANIEL IS 2/3 OF THE WAY THROUGH THIS TOPIC)
  Natural Language processing and chatterbots
  Robots Harley wouldn't mind doing robots if no one else has a burnig desire to?
  Raspberry Pis, Arduinos, Makey Makeys and other small computing devices
