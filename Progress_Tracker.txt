@@ -41,7 +41,7 @@ In this section you should report on 4 of the areas below.
  Machine Learning
  Autonomous vehicles (DANIEL IS 2/3 OF THE WAY THROUGH THIS TOPIC)
  Natural Language processing and chatterbots
- Robots Harley wouldn't mind doing robots if no one else has a burnig desire to?
+ Robots (Harley started this topic)
  Raspberry Pis, Arduinos, Makey Makeys and other small computing devices
 
  I guess we all pick one and we can do a report on each
