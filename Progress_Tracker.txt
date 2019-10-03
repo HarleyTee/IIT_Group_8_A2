@@ -58,7 +58,7 @@ Feedback 10%
 Download sparkPLUS, figure out how to use it
 " The markers will, however, check that each person in the group has contributed via SparkPLUS,
  and the marks for this section will only be awarded if all group members have contributed in an appropriate manner by the assignment deadline. "
-
+This will be available next week hopefully, Anthony discussed it in the weekly chat.
 
 Group Reflection 10%
 Each member of the group should contribute up to 200 words about their own perception of the group, and the group as a whole should contribute around 400 words. This should include the following attributes
