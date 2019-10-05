@@ -14,7 +14,7 @@ Group Website has pretty much been sorted by Daniel, cheers for that
  The link to your group’s Git repository (GitHub, BitBucket, etc) ---- Done Harley
  Your comments on how well the audit trail on the Git repository reflects your group’s work. You will presumably only be able to do this close to the time of submission"---Saturday before submission? (thoughts?)
 
-Industry Data 15%
+Industry Data 15% MJ
 
 We all need to look at our "ideal jobs" and do a bit of work answering the questions below, If we could keep this down to I guess a ?paragraph or two? Then after we're done I guess we could upload them and incorporate
 them into the website somewhere.
@@ -33,22 +33,12 @@ IT Work 15%
 Liam has this one down. Thanks for having great friends and taking the lead.
 Perhaps in the discord give an idea of what your friend does and maybe we can think of some questions for you to ask them?
 
-IT Technologies 20%
+IT Technologies 20% COMPLETE
 In this section you should report on 4 of the areas below.
- Clouds(nimbus?), services, servers
- Cybersecurity
- Blockchain and cryptocurrencies
- Machine Learning
- Autonomous vehicles (DANIEL IS 2/3 OF THE WAY THROUGH THIS TOPIC)
- Natural Language processing and chatterbots
- Robots (Harley has finished just wanting feedback)
- Raspberry Pis, Arduinos, Makey Makeys and other small computing devices
-
- I guess we all pick one and we can do a report on each
- Below are the suggested word counts. there is more info in the PDF
-What does it do? (600 words)
-What is the likely impact? (300 words)
-How will this affect you? (300 words)
+ Clouds, services, servers(STEVEN is Done)
+ Machine Learning(MJ is Done)
+ Autonomous vehicles (DANIEL Is Done)
+ Robots (HARLEY is DONE)
 
 Project Ideas 10%
 We need to find which project we should focus on, or create a new one entirely
