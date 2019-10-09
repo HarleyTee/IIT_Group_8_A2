@@ -14,7 +14,9 @@ Group Website has pretty much been sorted by Daniel, cheers for that
  The link to your group’s Git repository (GitHub, BitBucket, etc) ---- Done Harley
  Your comments on how well the audit trail on the Git repository reflects your group’s work. You will presumably only be able to do this close to the time of submission"---Saturday before submission? (thoughts?)
 
-Industry Data 15% MJ
+Industry Data 15% MJ - COMPLETE 
+** Feel free to include anything else you think is missing, especially in reagrds to the last question as I coudn't form a group answer** 
+
 
 We all need to look at our "ideal jobs" and do a bit of work answering the questions below, If we could keep this down to I guess a ?paragraph or two? Then after we're done I guess we could upload them and incorporate
 them into the website somewhere.
