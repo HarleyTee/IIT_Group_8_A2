@@ -14,8 +14,8 @@ Group Website has pretty much been sorted by Daniel, cheers for that
  The link to your group’s Git repository (GitHub, BitBucket, etc) ---- Done Harley
  Your comments on how well the audit trail on the Git repository reflects your group’s work. You will presumably only be able to do this close to the time of submission"---Saturday before submission? (thoughts?)
 
-Industry Data 15% MJ - COMPLETE 
-** Feel free to include anything else you think is missing, especially in reagrds to the last question as I coudn't form a group answer** 
+Industry Data 15% MJ - COMPLETE
+** Feel free to include anything else you think is missing, especially in regards to the last question as I couldn't form a group answer**
 
 
 We all need to look at our "ideal jobs" and do a bit of work answering the questions below, If we could keep this down to I guess a ?paragraph or two? Then after we're done I guess we could upload them and incorporate
@@ -45,12 +45,14 @@ In this section you should report on 4 of the areas below.
 Project Ideas 10%
 We need to find which project we should focus on, or create a new one entirely
 Minimum 500 words would be nice to have a decent write up once we decide
+What're we going to do with our project?
 
 Feedback 10%
 Download sparkPLUS, figure out how to use it
 " The markers will, however, check that each person in the group has contributed via SparkPLUS,
  and the marks for this section will only be awarded if all group members have contributed in an appropriate manner by the assignment deadline. "
-This will be available next week hopefully, Anthony discussed it in the weekly chat.
+Is Available now
+HT-Done
 
 Group Reflection 10%
 Each member of the group should contribute up to 200 words about their own perception of the group, and the group as a whole should contribute around 400 words. This should include the following attributes
@@ -60,6 +62,11 @@ Each member of the group should contribute up to 200 words about their own perce
  At least one thing that was surprising
  At least one thing that you have learned about groups
  Remember to include in your section on Tools how well you think your Github log of activity reflects your group’s work on this assignment.
+
+Daniel-Done
+HT-Done
+Liam -Done
+Steven-Done
 
  I guess in week leading up to the due date we reflect and get do a short write up.
 
